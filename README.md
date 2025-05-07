@@ -74,7 +74,7 @@ D1/MS2/Attack/MetaData
 
 ### 1. **Prepare the Dataset**
 
-- Download and extract the D1 `.h5` file from [AESPTv2 releases](https://github.com/urioja/AESPTv2/releases).
+- Download and extract the D1 `.h5` file from [AESPTv2](https://github.com/urioja/AESPTv2).
 - Upload the `.h5` file to your Google Drive.
 
 ### 2. **Open and Run the Colab Notebook**
